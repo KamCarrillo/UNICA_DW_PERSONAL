@@ -1,8 +1,8 @@
 <template>
-    <div class="w-full max-w-4xl mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols bg-gray-200">
-        <h1 class="col-span-full text-4xl font-bold text-center text-blue-900 pt-10">Post</h1>
+    <section class="w-full max-w- mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols bg-gray-200">
+        <h1 class="col-span-full text-4xl font-bold text-center text-blue-900 pt-10">FOTOGRAFIA CALLEJERA</h1>
 
-        <BlogPost class="col-span-full md:col-span-1 bg-white shadow-md rounded-lg p-6" title="FOTOGRAFIA CALLEJERA"
+        <BlogPost class="col-span-full md:col-span-1 bg-white shadow-md rounded-lg p-6" title="1"
             content="Los textos al azar son una herramienta muy útil para aquellos que buscan inspiración, creatividad o simplemente quieren experimentar con diferentes formas de expresión escrita. Al generar un texto al azar, se pueden obtener resultados sorprendentes y originales que nunca hubieran surgido de otra manera.
             Existen diferentes métodos para generar textos al azar, desde el uso de software especializado hasta técnicas manuales como el  cut-up (recortar y
             reorganizar palabras y frases). Cada método tiene sus ventajas y desventajas, pero todos comparten la misma idea
@@ -17,8 +17,7 @@
             <img src="src\assets\Recursos\IMG_5172.jpg" alt="Imagen 1" class="rounded-lg shadow-md" />
         </div>
 
-
-        <BlogPost class="col-span-full md:col-span-1 bg-white shadow-md rounded-lg p-6" title="Post2"
+        <BlogPost class="col-span-full md:col-span-1 bg-white shadow-md rounded-lg p-6" title="2"
             content="Los textos al azar son una herramienta muy útil para aquellos que buscan inspiración, creatividad o simplemente quieren experimentar con diferentes formas de expresión escrita. Al generar un texto al azar, se pueden obtener resultados sorprendentes y originales que nunca hubieran surgido de otra manera.
             Existen diferentes métodos para generar textos al azar, desde el uso de software especializado hasta técnicas manuales como el  cut-up (recortar y
             reorganizar palabras y frases). Cada método tiene sus ventajas y desventajas, pero todos comparten la misma idea
@@ -32,7 +31,7 @@
         <div class="col-span-full md:col-span-1">
             <img src="src\assets\Recursos\IMG_5421.jpg" alt="Imagen 1" class="rounded-lg shadow-md" />
         </div>
-    </div>
+    </section>
 </template>
   
 <script>
