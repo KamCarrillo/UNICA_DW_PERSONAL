@@ -1,7 +1,5 @@
 <template>
   <div class = "bg-gray-200">
-
-  
     <div>
       <br><br>
       <h1 class="text-4xl font-bold font-mono text-center text-gray-600" style="font-family: 'Inconsolata', monospace;">Kam Carrillo<span class="text-lg"> Fotografia</span></h1>

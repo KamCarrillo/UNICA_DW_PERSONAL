@@ -1,34 +1,16 @@
 <template>
     <div class="w-full max-w-4xl mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols bg-gray-200">
-        <h1 class="col-span-full text-4xl font-bold text-center text-blue-900 pt-10">Post</h1>
+        <!--<h1 class="col-span-full text-4xl font-bold text-center text-blue-900 pt-10">FOTOGRAFIA CALLEJERA</h1>-->
 
-        <BlogPost class="col-span-full md:col-span-1 bg-white shadow-md rounded-lg p-6" title="FOTOGRAFIA CALLEJERA"
-            content="Los textos al azar son una herramienta muy útil para aquellos que buscan inspiración, creatividad o simplemente quieren experimentar con diferentes formas de expresión escrita. Al generar un texto al azar, se pueden obtener resultados sorprendentes y originales que nunca hubieran surgido de otra manera.
-            Existen diferentes métodos para generar textos al azar, desde el uso de software especializado hasta técnicas manuales como el  cut-up (recortar y
-            reorganizar palabras y frases). Cada método tiene sus ventajas y desventajas, pero todos comparten la misma idea
-            central: la aleatoriedad como fuente de inspiración. En algunos casos, los textos al azar pueden parecer
-            incoherentes o carecer de sentido, pero en realidad pueden esconder significados más profundos y complejos. Esto
-            se debe a que la mente humana tiene una gran capacidad para encontrar patrones y conexiones entre ideas
-            aparentemente inconexas. Además, los textos al azar pueden ser una herramienta útil para superar el bloqueo
-            creativo. Cuando nos enfrentamos a la página en blanco y no sabemos qué escribir, podemos recurrir a la
-            aleatoriedad para romper con nuestros patrones de pensamiento habituales y explorar nuevos caminos creativos." title-class="text-lg font-semibold text-gray-800 mb-2"
-            content-class="text-gray-600 leading-relaxed bg-yellow-100" />
-        <div class="col-span-full md:col-span-1">
+        <div class="col-span-full md:col-span-1" style="float:left; margin-right:20px;">
             <img src="src\assets\Recursos\IMG_5172.jpg" alt="Imagen 1" class="rounded-lg shadow-md" />
+        </div>
+        <div style="overflow:hidden;">
+            <p>Este es un texto de ejemplo que rodea la imagen.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor, quam eget ultrices varius, velit elit aliquet eros, a vulputate lectus mauris eget lacus. Nulla facilisi. Donec quis feugiat odio. Vivamus volutpat neque in nibh interdum, vel lacinia tellus dignissim. Nam euismod sem ac semper laoreet. Sed sit amet lorem euismod, sollicitudin est vel, bibendum enim. Nulla sollicitudin varius ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut vel massa id nisl luctus hendrerit in nec sapien. Curabitur maximus magna vitae dui luctus, ac finibus dolor luctus. Praesent scelerisque risus quis orci bibendum, eget sollicitudin eros dapibus. Maecenas pulvinar consequat bibendum. Donec vestibulum, sem eget consectetur malesuada, nisl nisi tincidunt enim, a scelerisque elit felis nec ipsum. Fusce aliquam enim lectus, ut eleifend turpis faucibus eu. </p>
         </div>
 
 
-        <BlogPost class="col-span-full md:col-span-1 bg-white shadow-md rounded-lg p-6" title="Post2"
-            content="Los textos al azar son una herramienta muy útil para aquellos que buscan inspiración, creatividad o simplemente quieren experimentar con diferentes formas de expresión escrita. Al generar un texto al azar, se pueden obtener resultados sorprendentes y originales que nunca hubieran surgido de otra manera.
-            Existen diferentes métodos para generar textos al azar, desde el uso de software especializado hasta técnicas manuales como el  cut-up (recortar y
-            reorganizar palabras y frases). Cada método tiene sus ventajas y desventajas, pero todos comparten la misma idea
-            central: la aleatoriedad como fuente de inspiración. En algunos casos, los textos al azar pueden parecer
-            incoherentes o carecer de sentido, pero en realidad pueden esconder significados más profundos y complejos. Esto
-            se debe a que la mente humana tiene una gran capacidad para encontrar patrones y conexiones entre ideas
-            aparentemente inconexas. Además, los textos al azar pueden ser una herramienta útil para superar el bloqueo
-            creativo. Cuando nos enfrentamos a la página en blanco y no sabemos qué escribir, podemos recurrir a la
-            aleatoriedad para romper con nuestros patrones de pensamiento habituales y explorar nuevos caminos creativos." title-class="text-lg font-semibold text-gray-800 mb-2"
-            content-class="text-gray-600 leading-relaxed bg-yellow-100" />
         <div class="col-span-full md:col-span-1">
             <img src="src\assets\Recursos\IMG_5421.jpg" alt="Imagen 1" class="rounded-lg shadow-md" />
         </div>
